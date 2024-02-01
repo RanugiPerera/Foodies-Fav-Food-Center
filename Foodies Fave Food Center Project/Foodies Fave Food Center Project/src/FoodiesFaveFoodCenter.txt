@@ -1,0 +1,8 @@
+Remaining Burgers: 50
+
+*****************
+*   Cashiers    *
+*****************
+X  X  
+X  X  X  
+X  X  X  X  X  
